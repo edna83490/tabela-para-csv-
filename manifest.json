@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Tabela para CSV",
+  "description": "Extrai tabelas de páginas e exporta para CSV",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
