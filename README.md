@@ -81,6 +81,12 @@ Os principais insights obtidos estão documentados no arquivo:
 📄 `case-estudo-analise/insights.md`
 
 ---
+## 🚀 Diferencial do Projeto
+Além da análise de dados, este projeto inclui o desenvolvimento de uma extensão Chrome para automatizar a coleta de dados, demonstrando habilidades em engenharia e análise de dados.
 
-## 📁 Estrutura do Repositório
+---
+## 👩‍💻 Autora
+Edna Silva  
+Estudante de Engenharia da Computação | Análise de Dados | Power BI  
+
 
