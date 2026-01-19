@@ -53,7 +53,25 @@ A análise e os dashboards foram desenvolvidos utilizando a plataforma Lovable.
 ---
 
 ## 📷 Visualização do Dashboard
-![Dashboard de Análise](imagens/dashboard.png)
+# 📊 Análise de Dados — População dos Municípios do Brasil
+
+Este projeto apresenta uma análise exploratória dos dados de população dos municípios brasileiros, utilizando uma base pública da Wikipédia.
+
+## 🔗 Dashboard interativo
+O dashboard foi desenvolvido na plataforma Lovable e pode ser acessado no link abaixo:
+
+👉 **Acesse o dashboard:**  
+https://pop-insight-map.lovable.app
+
+## 📁 Arquivos do projeto
+- `municipios_populacao.csv` — base de dados utilizada na análise  
+- `insights.md` — principais insights extraídos dos dados  
+
+## 🛠️ Ferramentas utilizadas
+- Análise de dados
+- Visualização interativa
+- Lovable
+- GitHub
 
 ---
 
